@@ -5,13 +5,16 @@
 
 - 🌱 I’m currently learning **MERN technology**
 
+- Portfolio link🕸️ [https://github.com/akiboss10/Portfolio-2.0](https://github.com/akiboss10/Portfolio-2.0)
+
 - 📫 How to reach me **silenthardworking@gmail.com**
 
 - ⚡ Fun fact **I think, I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=https://www.linkedin.com/in/akshay-kumar-67b873309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-kumar-67b873309/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshay-kumar-67b873309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-kumar-67b873309/" height="30" width="40" /></a>
+<a href="https://instagram.com/its_akshay.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_akshay.07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
